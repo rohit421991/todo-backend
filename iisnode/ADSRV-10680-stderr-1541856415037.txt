@@ -1,0 +1,37 @@
+Sat, 10 Nov 2018 13:26:57 GMT tedious deprecated The `IntN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:63:20
+Sat, 10 Nov 2018 13:26:57 GMT tedious deprecated The `BitN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:71:40
+Sat, 10 Nov 2018 13:26:57 GMT tedious deprecated The `FloatN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:73:20
+Sat, 10 Nov 2018 13:26:57 GMT tedious deprecated The `MoneyN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:78:20
+Sat, 10 Nov 2018 13:26:57 GMT tedious deprecated The `NumericN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:82:44
+Sat, 10 Nov 2018 13:26:57 GMT tedious deprecated The `DecimalN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:83:44
+Sat, 10 Nov 2018 13:26:57 GMT tedious deprecated The `DateTimeN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:85:20
+Sat, 10 Nov 2018 13:26:57 GMT tedious deprecated The `TimeN` data type alias is deprecated, please use `Time` instead. at node_modules\mssql\lib\tedious.js:88:20
+Sat, 10 Nov 2018 13:26:57 GMT tedious deprecated The `DateN` data type alias is deprecated, please use `Date` instead. at node_modules\mssql\lib\tedious.js:89:20
+Sat, 10 Nov 2018 13:26:57 GMT tedious deprecated The `DateTime2N` data type alias is deprecated, please use `DateTime2` instead. at node_modules\mssql\lib\tedious.js:90:20
+Sat, 10 Nov 2018 13:26:57 GMT tedious deprecated The `DateTimeOffsetN` data type alias is deprecated, please use `DateTimeOffset` instead. at node_modules\mssql\lib\tedious.js:91:20
+Sat, 10 Nov 2018 13:26:57 GMT tedious deprecated The `UniqueIdentifierN` data type alias is deprecated, please use `UniqueIdentifier` instead. at node_modules\mssql\lib\tedious.js:93:20
+(node:10680) UnhandledPromiseRejectionWarning: RangeError: Invalid status code: undefined
+    at ServerResponse.writeHead (_http_server.js:194:11)
+    at ServerResponse.writeHead (F:\V\Technology Team\TT\NodeApp\MERP-test\node_modules\on-headers\index.js:55:19)
+    at ServerResponse._implicitHeader (_http_server.js:185:8)
+    at write_ (_http_outgoing.js:632:9)
+    at ServerResponse.end (_http_outgoing.js:751:5)
+    at ServerResponse.send (F:\V\Technology Team\TT\NodeApp\MERP-test\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (F:\V\Technology Team\TT\NodeApp\MERP-test\node_modules\express\lib\response.js:267:15)
+    at getAllRecords (F:\V\Technology Team\TT\NodeApp\MERP-test\Controller\Masters\rawMaterialController.js:244:8)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:10680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:10680) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:10680) UnhandledPromiseRejectionWarning: RangeError: Invalid status code: undefined
+    at ServerResponse.writeHead (_http_server.js:194:11)
+    at ServerResponse.writeHead (F:\V\Technology Team\TT\NodeApp\MERP-test\node_modules\on-headers\index.js:55:19)
+    at ServerResponse._implicitHeader (_http_server.js:185:8)
+    at write_ (_http_outgoing.js:632:9)
+    at ServerResponse.end (_http_outgoing.js:751:5)
+    at ServerResponse.send (F:\V\Technology Team\TT\NodeApp\MERP-test\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (F:\V\Technology Team\TT\NodeApp\MERP-test\node_modules\express\lib\response.js:267:15)
+    at getAllRecords (F:\V\Technology Team\TT\NodeApp\MERP-test\Controller\Masters\rawMaterialController.js:244:8)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:10680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)

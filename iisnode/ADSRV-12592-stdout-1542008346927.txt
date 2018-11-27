@@ -1,0 +1,3 @@
+Server is listening on port no :\\.\pipe\76d0e142-f9fb-448a-b515-f149a795d982
+[0mGET /MERP-test/component/ [31m500 [0m1834.282 ms - 170[0m
+[0mGET /MERP-test/component/ [31m500 [0m1630.652 ms - 170[0m

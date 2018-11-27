@@ -1,0 +1,12 @@
+Tue, 27 Nov 2018 07:00:17 GMT tedious deprecated The `IntN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:63:20
+Tue, 27 Nov 2018 07:00:17 GMT tedious deprecated The `BitN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:71:40
+Tue, 27 Nov 2018 07:00:17 GMT tedious deprecated The `FloatN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:73:20
+Tue, 27 Nov 2018 07:00:17 GMT tedious deprecated The `MoneyN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:78:20
+Tue, 27 Nov 2018 07:00:17 GMT tedious deprecated The `NumericN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:82:44
+Tue, 27 Nov 2018 07:00:17 GMT tedious deprecated The `DecimalN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:83:44
+Tue, 27 Nov 2018 07:00:57 GMT tedious deprecated The `DateTimeN` data type is internal and will be removed. at node_modules\mssql\lib\tedious.js:85:20
+Tue, 27 Nov 2018 07:00:57 GMT tedious deprecated The `TimeN` data type alias is deprecated, please use `Time` instead. at node_modules\mssql\lib\tedious.js:88:20
+Tue, 27 Nov 2018 07:00:57 GMT tedious deprecated The `DateN` data type alias is deprecated, please use `Date` instead. at node_modules\mssql\lib\tedious.js:89:20
+Tue, 27 Nov 2018 07:00:57 GMT tedious deprecated The `DateTime2N` data type alias is deprecated, please use `DateTime2` instead. at node_modules\mssql\lib\tedious.js:90:20
+Tue, 27 Nov 2018 07:00:57 GMT tedious deprecated The `DateTimeOffsetN` data type alias is deprecated, please use `DateTimeOffset` instead. at node_modules\mssql\lib\tedious.js:91:20
+Tue, 27 Nov 2018 07:00:57 GMT tedious deprecated The `UniqueIdentifierN` data type alias is deprecated, please use `UniqueIdentifier` instead. at node_modules\mssql\lib\tedious.js:93:20

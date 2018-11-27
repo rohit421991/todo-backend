@@ -1,0 +1,21 @@
+Server is listening on port no :\\.\pipe\8163da48-75d6-4d3a-a6b4-a1030a525d18
+[0mGET /MERP-test/vendor?pageIndex=1&pageSize=10 [36m304 [0m319.857 ms - -[0m
+[0mGET /MERP-test/vendor/15 [36m304 [0m156.247 ms - -[0m
+[0mGET /MERP-test/vendor/rmlist/15?pageIndex=1 [36m304 [0m164.224 ms - -[0m
+[0mGET /MERP-test/vendor/contact/15 [36m304 [0m155.218 ms - -[0m
+[0mGET /MERP-test/department [31m500 [0m146.129 ms - 550[0m
+[0mGET /MERP-test/division [31m500 [0m143.386 ms - 1409[0m
+[0mGET /MERP-test/component?pageIndex=1&pageSize=10 [36m304 [0m74.204 ms - -[0m
+[0mGET /MERP-test/component/8 [32m200 [0m73.501 ms - 232[0m
+[0mGET /MERP-test/vendor?pageIndex=1&pageSize=10 [36m304 [0m71.061 ms - -[0m
+[0mGET /MERP-test/vendor/15 [36m304 [0m166.610 ms - -[0m
+[0mGET /MERP-test/vendor/rmlist/15?pageIndex=1 [36m304 [0m170.173 ms - -[0m
+[0mGET /MERP-test/department [31m500 [0m167.460 ms - 550[0m
+[0mGET /MERP-test/vendor/contact/15 [36m304 [0m173.525 ms - -[0m
+[0mGET /MERP-test/division [31m500 [0m177.338 ms - 1409[0m
+in
+1
+[0mGET /MERP-test/rawMaterial/Type/1 [0m- [0m88.529 ms - -[0m
+[0mGET /MERP-test/department [31m500 [0m103.547 ms - 550[0m
+[0mGET /MERP-test/division [31m500 [0m109.106 ms - 1409[0m
+[0mGET /MERP-test/user?pageIndex=1&pageSize=10 [36m304 [0m123.261 ms - -[0m

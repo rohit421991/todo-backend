@@ -1,0 +1,50 @@
+Server is listening on port no :\\.\pipe\13cbb562-fcec-4d1b-8c35-9c9bf07c5952
+[0mGET /MERP-test/component?pageIndex=1&pageSize=10 [36m304 [0m288.864 ms - -[0m
+[0mGET /MERP-test/component/8 [36m304 [0m70.705 ms - -[0m
+[0mGET /MERP-test/component?pageIndex=1&pageSize=10 [36m304 [0m60.313 ms - -[0m
+[0mGET /MERP-test/component?pageIndex=1&pageSize=10 [36m304 [0m72.359 ms - -[0m
+[0mGET /MERP-test/component/8 [36m304 [0m64.081 ms - -[0m
+[0mGET /MERP-test/component?pageIndex=1&pageSize=10 [36m304 [0m63.548 ms - -[0m
+[0mGET /MERP-test/component?pageIndex=1&pageSize=10 [36m304 [0m60.248 ms - -[0m
+[0mGET /MERP-test/component/8 [36m304 [0m81.584 ms - -[0m
+[0mGET /MERP-test/component/partno/8?pageIndex=1 [32m200 [0m89.839 ms - 115[0m
+[0mGET /MERP-test/vendor?pageIndex=1&pageSize=10 [36m304 [0m145.863 ms - -[0m
+[0mGET /MERP-test/vendor/15 [36m304 [0m136.113 ms - -[0m
+[0mGET /MERP-test/department [31m500 [0m149.033 ms - 550[0m
+[0mGET /MERP-test/division [31m500 [0m152.146 ms - 1409[0m
+[0mGET /MERP-test/vendor/rmlist/15?pageIndex=1 [36m304 [0m143.613 ms - -[0m
+[0mGET /MERP-test/vendor/contact/15 [36m304 [0m143.920 ms - -[0m
+in
+1
+[0mPOST /MERP-test/login [32m200 [0m385.553 ms - 539[0m
+[0mGET /MERP-test/vendor/15 [36m304 [0m164.550 ms - -[0m
+[0mGET /MERP-test/division [31m500 [0m171.741 ms - 1409[0m
+[0mGET /MERP-test/department [31m500 [0m166.974 ms - 550[0m
+[0mGET /MERP-test/vendor/rmlist/15?pageIndex=1 [36m304 [0m167.740 ms - -[0m
+[0mGET /MERP-test/vendor/contact/15 [36m304 [0m170.779 ms - -[0m
+[0mGET /MERP-test/component?pageIndex=1&pageSize=10 [36m304 [0m57.534 ms - -[0m
+[0mGET /MERP-test/component/8 [36m304 [0m71.152 ms - -[0m
+[0mGET /MERP-test/component/partno/8?pageIndex=1 [36m304 [0m76.411 ms - -[0m
+[0mGET /MERP-test/rawMaterial/Type/1 [0m- [0m80.287 ms - -[0m
+[0mGET /MERP-test/vendor?pageIndex=1&pageSize=10 [36m304 [0m64.848 ms - -[0m
+[0mGET /MERP-test/vendor?pageIndex=1&pageSize=10 [36m304 [0m69.951 ms - -[0m
+[0mGET /MERP-test/vendor/15 [36m304 [0m141.474 ms - -[0m
+[0mGET /MERP-test/vendor/rmlist/15?pageIndex=1 [36m304 [0m146.122 ms - -[0m
+[0mGET /MERP-test/division [31m500 [0m146.898 ms - 1409[0m
+[0mGET /MERP-test/department [31m500 [0m156.151 ms - 550[0m
+[0mGET /MERP-test/vendor/contact/15 [36m304 [0m156.218 ms - -[0m
+in
+1
+[0mGET /MERP-test/rawMaterial/Type/1 [0m- [0m67.334 ms - -[0m
+[0mGET /MERP-test/component?pageIndex=1&pageSize=10 [36m304 [0m56.399 ms - -[0m
+[0mGET /MERP-test/component/8 [36m304 [0m68.588 ms - -[0m
+[0mGET /MERP-test/component/partno/8?pageIndex=1 [36m304 [0m73.719 ms - -[0m
+[0mGET /MERP-test/component/8 [36m304 [0m74.082 ms - -[0m
+[0mGET /MERP-test/component/partno/8?pageIndex=1 [36m304 [0m75.741 ms - -[0m
+[0mGET /MERP-test/partno [33m404 [0m2.766 ms - 67[0m
+[0mGET /MERP-test/vendor?pageIndex=1&pageSize=10 [36m304 [0m64.557 ms - -[0m
+[0mGET /MERP-test/vendor/rmlist/15?pageIndex=1 [36m304 [0m189.776 ms - -[0m
+[0mGET /MERP-test/vendor/15 [36m304 [0m197.733 ms - -[0m
+[0mGET /MERP-test/division [31m500 [0m196.069 ms - 1409[0m
+[0mGET /MERP-test/vendor/contact/15 [36m304 [0m198.022 ms - -[0m
+[0mGET /MERP-test/department [31m500 [0m175.198 ms - 550[0m

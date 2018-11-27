@@ -1,0 +1,9 @@
+Server is listening on port no :\\.\pipe\d7f53b87-f03a-4614-bd99-6338366a6569
+[0mGET /MERP-test/component?pageIndex=1&pageSize=10 [36m304 [0m354.329 ms - -[0m
+[0mPOST /MERP-test/component [33m422 [0m17.382 ms - 113[0m
+[0mGET /MERP-test/component/partno/2 [32m200 [0m82.018 ms - 115[0m
+[0mGET /MERP-test/rfq [32m200 [0m221.914 ms - 445[0m
+[0mGET /MERP-test/component/partno/8 [32m200 [0m71.022 ms - 115[0m
+[0mGET /MERP-test/component/partno/1 [32m200 [0m70.028 ms - 947[0m
+[0mGET /MERP-test/component/partno/2 [32m200 [0m63.489 ms - 115[0m
+[0mGET /MERP-test/component/partno/1 [32m200 [0m68.195 ms - 947[0m
